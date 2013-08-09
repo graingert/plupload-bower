@@ -1,0 +1,12 @@
+{
+  "name": "plupload",
+  "version": "1.5.4",
+  "main": "js/plupload.full.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
